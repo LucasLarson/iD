@@ -59,6 +59,7 @@
     "building/levels": {"key": "building:levels", "type": "number", "minValue": 0, "label": "Levels", "placeholder": "2, 4, 6..."},
     "building/levels/underground": {"key": "building:levels:underground", "type": "number", "minValue": 0, "label": "Underground Levels", "placeholder": "2, 4, 6...", "terms": ["basement levels"]},
     "building/material": {"key": "building:material", "type": "combo", "label": "Material"},
+    "building/part": {"key": "building:part", "type": "text", "label": "Building Part", "placeholder": "yes, roof..."},
     "bunker_type": {"key": "bunker_type", "type": "combo", "label": "Type"},
     "cables": {"key": "cables", "type": "number", "minValue": 1, "label": "Cables", "placeholder": "1, 2, 3..."},
     "camera/direction": {"key": "camera:direction", "type": "number", "label": "Direction (Degrees Clockwise)", "placeholder": "45, 90, 180, 270"},
